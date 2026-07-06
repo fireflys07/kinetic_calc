@@ -4,6 +4,10 @@
 
 Основная задача программы - автоматизировать расчёт концентрации вещества по оптической плотности.
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhzczY5ZHRxaWtpbmU4dzhyMXYwdjFmdGhqajd6Ymg1OHpmcTFpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIlm2JCjHHM9q/giphy.gif" alt="Molecule Chemistry GIF" width="350">
+</p>
+
 ## Что делает программа
 
 Программа позволяет:
